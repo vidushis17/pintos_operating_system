@@ -1,0 +1,2 @@
+src/examples/**/*.o
+src/examples/libc.a
